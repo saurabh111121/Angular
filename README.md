@@ -1,4 +1,5 @@
 [![npm version](https://badge.fury.io/js/%40angular%2Fcore.svg)](https://www.npmjs.com/@angular/core)
+
 <h2> Step 1: Install the Angular CLI </h2> 
 
 To install the CLI using npm, open a terminal/console window and enter the following command:
@@ -36,8 +37,9 @@ The --open (or just -o) option automatically opens your browser to http://localh
 
 [Get started in 5 minutes][quickstart].
 
-##BootStrap
-.[installation, Documentations, code etc].[abc].
+## BootStrap
+.[installation, Documentations, code etc][abc].
+ github.com/twbs/bootstrap
 
 [quickstart]: https://angular.io/start
-.[abc]: https://www.npmjs.com/package/bootstrap#quick-start
+[abc]: https://www.npmjs.com/package/bootstrap#quick-start
