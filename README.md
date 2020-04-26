@@ -40,9 +40,9 @@ The --open (or just -o) option automatically opens your browser to http://localh
 
 ## BootStrap
 
-.[Bootstrap help][abc].
+[Bootstrap help][abc]
 
-.[github.com/twbs/bootstrap][xxx].
+[github.com/twbs/bootstrap][xxx]
 
 [quickstart]: https://angular.io/start
 [abc]: https://www.npmjs.com/package/bootstrap#quick-start
